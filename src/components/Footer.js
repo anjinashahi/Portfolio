@@ -17,7 +17,7 @@ function Footer() {
           <h3>shahianjina@gmail.com</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} AS</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="dddss"
+                href="https://www.instagram.com/_.anjina._/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
