@@ -2,12 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-// import leaf from "../../Assets/Projects/leaf.png";
-// import emotion from "../../Assets/Projects/emotion.png";
-// import editor from "../../Assets/Projects/codeEditor.png";
-// import chatify from "../../Assets/Projects/chatify.png";
-// import suicide from "../../Assets/Projects/suicide.png";
-// import bitsOfCode from "../../Assets/Projects/blog.png";
 import tictactoe from "../../Assets/Projects/tictactoe.png";
 import weather from "../../Assets/Projects/weather.png";
 import todolist from "../../Assets/Projects/todolist.png";
@@ -54,7 +48,7 @@ function Projects() {
               title="Weather app"
               description="This website shows the current weather conditions such as current temperature, humidity, maximum and minimum temperature, and wind speed. The user can also browse their city. It is made using HTML, CSS, Javascript, MySql, php and external API used to fetch data."
               ghLink="https://github.com/anjinashahi/weatherapp"
-              demoLink="https://editor.soumya-jit.tech/"              
+             
             />
           </Col>
 
